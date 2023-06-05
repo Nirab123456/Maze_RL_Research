@@ -3,6 +3,14 @@
 
 Certainly! Here's a sample template for a long description README that you can use for your project on GitHub:
 
+
+![image](https://github.com/Nirab123456/Maze_RL_Research/assets/128963796/446f47ae-d9e5-4ada-998a-ffabfd95025c)
+
+
+
+
+
+
 # Retro Maze Game AI
 
 This repository contains the code and models for training an AI model to play a retro maze game. The AI model is trained using reinforcement learning techniques to navigate through the maze and reach the goal while avoiding obstacles.
