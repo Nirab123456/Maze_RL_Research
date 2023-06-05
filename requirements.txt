@@ -1,1 +1,7 @@
+gym-retro
+stable-baselines3
+gym
+torch
+torchvision
+torchaudio
 
