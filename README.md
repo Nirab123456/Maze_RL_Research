@@ -1,7 +1,6 @@
 # Maze_RL_Research
 
 
-Certainly! Here's a sample template for a long description README that you can use for your project on GitHub:
 
 
 ![image](https://github.com/Nirab123456/Maze_RL_Research/assets/128963796/446f47ae-d9e5-4ada-998a-ffabfd95025c)
