@@ -3,8 +3,12 @@
 
 
 
-![image](https://github.com/Nirab123456/Maze_RL_Research/assets/128963796/446f47ae-d9e5-4ada-998a-ffabfd95025c)
 
+
+
+
+
+https://github.com/Nirab123456/Maze_RL_Research/assets/128963796/02287379-20d4-4064-8db5-051037f91e55
 
 
 
